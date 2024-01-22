@@ -1,0 +1,218 @@
+[
+    {
+        "action": "clicked",
+        "button": "Button.left",
+        "x": 1725,
+        "y": 892,
+        "_time": 1705942626.7693868
+    },
+    {
+        "action": "unclicked",
+        "button": "Button.left",
+        "x": 1725,
+        "y": 892,
+        "_time": 1705942626.9964218
+    },
+    {
+        "action": "clicked",
+        "button": "Button.right",
+        "x": 1310,
+        "y": 638,
+        "_time": 1705942635.135864
+    },
+    {
+        "action": "unclicked",
+        "button": "Button.right",
+        "x": 1310,
+        "y": 638,
+        "_time": 1705942635.3578227
+    },
+    {
+        "action": "clicked",
+        "button": "Button.left",
+        "x": 1415,
+        "y": 841,
+        "_time": 1705942638.6374295
+    },
+    {
+        "action": "unclicked",
+        "button": "Button.left",
+        "x": 1415,
+        "y": 841,
+        "_time": 1705942638.8596091
+    },
+    {
+        "action": "clicked",
+        "button": "Button.left",
+        "x": 1349,
+        "y": 436,
+        "_time": 1705942645.134972
+    },
+    {
+        "action": "unclicked",
+        "button": "Button.left",
+        "x": 1349,
+        "y": 436,
+        "_time": 1705942645.3574274
+    },
+    {
+        "action": "clicked",
+        "button": "Button.left",
+        "x": 1346,
+        "y": 823,
+        "_time": 1705942648.4427783
+    },
+    {
+        "action": "unclicked",
+        "button": "Button.left",
+        "x": 1346,
+        "y": 823,
+        "_time": 1705942648.662844
+    },
+    {
+        "action": "clicked",
+        "button": "Button.left",
+        "x": 1253,
+        "y": 585,
+        "_time": 1705942650.9161117
+    },
+    {
+        "action": "unclicked",
+        "button": "Button.left",
+        "x": 1253,
+        "y": 585,
+        "_time": 1705942651.1333334
+    },
+    {
+        "action": "clicked",
+        "button": "Button.left",
+        "x": 1589,
+        "y": 158,
+        "_time": 1705942656.719142
+    },
+    {
+        "action": "unclicked",
+        "button": "Button.left",
+        "x": 1589,
+        "y": 158,
+        "_time": 1705942656.9427965
+    },
+    {
+        "action": "clicked",
+        "button": "Button.left",
+        "x": 1184,
+        "y": 638,
+        "_time": 1705942662.4145389
+    },
+    {
+        "action": "unclicked",
+        "button": "Button.left",
+        "x": 1184,
+        "y": 638,
+        "_time": 1705942662.6311095
+    },
+    {
+        "action": "pressed_key",
+        "key": "Key.ctrl_l",
+        "_time": 1705942663.2942746
+    },
+    {
+        "action": "pressed_key",
+        "key": "\u0016",
+        "_time": 1705942663.7780035
+    },
+    {
+        "action": "released_key",
+        "key": "\u0016",
+        "_time": 1705942663.9218125
+    },
+    {
+        "action": "released_key",
+        "key": "Key.ctrl_l",
+        "_time": 1705942664.0350094
+    },
+    {
+        "action": "clicked",
+        "button": "Button.left",
+        "x": 1703,
+        "y": 929,
+        "_time": 1705942676.990193
+    },
+    {
+        "action": "unclicked",
+        "button": "Button.left",
+        "x": 1703,
+        "y": 929,
+        "_time": 1705942677.2216399
+    },
+    {
+        "action": "clicked",
+        "button": "Button.right",
+        "x": 1703,
+        "y": 929,
+        "_time": 1705942682.4292905
+    },
+    {
+        "action": "unclicked",
+        "button": "Button.right",
+        "x": 1703,
+        "y": 929,
+        "_time": 1705942684.2519867
+    },
+    {
+        "action": "clicked",
+        "button": "Button.right",
+        "x": 1703,
+        "y": 929,
+        "_time": 1705942684.371753
+    },
+    {
+        "action": "unclicked",
+        "button": "Button.right",
+        "x": 1703,
+        "y": 929,
+        "_time": 1705942685.040241
+    },
+    {
+        "action": "clicked",
+        "button": "Button.right",
+        "x": 1703,
+        "y": 929,
+        "_time": 1705942685.0546854
+    },
+    {
+        "action": "unclicked",
+        "button": "Button.right",
+        "x": 1703,
+        "y": 929,
+        "_time": 1705942685.0894554
+    },
+    {
+        "action": "clicked",
+        "button": "Button.right",
+        "x": 1703,
+        "y": 929,
+        "_time": 1705942685.367761
+    },
+    {
+        "action": "unclicked",
+        "button": "Button.right",
+        "x": 1703,
+        "y": 929,
+        "_time": 1705942685.7860763
+    },
+    {
+        "action": "clicked",
+        "button": "Button.right",
+        "x": 1703,
+        "y": 929,
+        "_time": 1705942686.2290828
+    },
+    {
+        "action": "unclicked",
+        "button": "Button.right",
+        "x": 1703,
+        "y": 929,
+        "_time": 1705942689.0303023
+    }
+]
